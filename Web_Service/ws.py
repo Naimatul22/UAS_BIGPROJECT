@@ -1,6 +1,6 @@
 
 #NAIMATUL MAUDIYAH (190900008)
-#Essi Nurjanah (19090009)
+#ESY NURJANAH (19090009)
 
 from flask import Flask, render_template, flash, request, jsonify, url_for, redirect, session
 import os
